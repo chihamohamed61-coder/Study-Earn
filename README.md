@@ -80,26 +80,26 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
     </td>
     <td align="center">
       <img src="screenshots/scelta-user.jpg" width="130" /><br/>
-      Pagina di scelta del ruolo
+      Pagina scelta ruolo
     </td>
     <td align="center">
       <img src="screenshots/login-user.jpg" width="130" /><br/>
-      pagina di login per l'utente
+      pagina login per utente
     </td>
        <td align="center">
       <img src="screenshots/registrato-user.jpg" width="130" /><br/>
-      pagina di registrazione per l'utente
+      pagina registrazione per utente
       </td>
   </tr>
 
   <tr>
     <td align="center">
       <img src="screenshots/profilo-user.jpg" width="130" /><br/>
-      pagina di profilo per l'utente
+      pagina profilo per utente
     </td>
     <td align="center">
       <img src="screenshots/dimenticata-password.jpg" width="130" /><br/>
-      pagina di dimenticata password
+      pagina dimenticata password
     </td>
     <td align="center">
       <img src="screenshots/home-studente.jpg" width="130" /><br/>
