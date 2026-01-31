@@ -118,14 +118,13 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="screenshots/offerta-datore.jpg" width="100" /><br/>
+    <td>
+      <img src="screenshots/offreta-datore.jpg" width="200" /><br/>
       pagina offerta datore
     </td>
-   
   </tr>
 </table>
-
+  <img src="screenshots/offreta-datore.jpg" width="50" />
 
 ## E. Tecnologia e implementazione (Tecnologia e Implementazione)
 
