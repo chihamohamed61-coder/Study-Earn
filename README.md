@@ -109,7 +109,7 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
       pagina home studente
     </td>
     <td align="center">
-      <img src="screenshots/offerta-datore.jpg" width="100" /><br/>
+      <img src="screenshots/offerta-studente.jpg" width="100" /><br/>
       pagina offerta studente
     </td>
     <td align="center">
