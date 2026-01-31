@@ -69,38 +69,38 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 
 *Alcune schermate principali dell’app:*
 
-![pagina splash](Study_Earn\screenshots/pagina-splash.jpg)
+![pagina splash](Study_Earn/screenshots/pagina-splash.jpg)
 *pagina splash*
 
-![introduzione 1](Study_Earn\screenshots/introduzione1.jpg)
+![introduzione 1](Study_Earn/screenshots/introduzione1.jpg)
 *prima delle quatro pagine introduttive*
 
-![Selezione User](Study_Earn\screenshots/scelta-user.jpg)
+![Selezione User](Study_Earn/screenshots/scelta-user.jpg)
 *Pagina di scelta del ruolo (Studente o Datore di Lavoro)*
 
-![login user](Study_Earn\screenshots/login-user.jpg)
+![login user](Study_Earn/screenshots/login-user.jpg)
 *pagina di login per l'utente*
 
 
-![registrato user](Study_Earn\screenshots/registrato-user.jpg)
+![registrato user](Study_Earn/screenshots/registrato-user.jpg)
 *pagina di registrazione per l'utente*
 
-![profilo user](Study_Earn\screenshots/profilo-user.jpg)
+![profilo user](Study_Earn/screenshots/profilo-user.jpg)
 *pagina di profilo per l'utente*
 
-![dimenticata password](Study_Earn\screenshots/dimenticata-password.jpg)
+![dimenticata password](Study_Earn/screenshots/dimenticata-password.jpg)
 *pagina di dimenticata password per l'utente*
 
-![home studente](Study_Earn\screenshots/home-studente.jpg)
+![home studente](Study_Earn/screenshots/home-studente.jpg)
 *pagina home studente*
 
-![offerta studente](Study_Earn\screenshots/offerta-studente.jpg)
+![offerta studente](Study_Earn/screenshots/offerta-studente.jpg)
 *pagina offerta studente*
 
-![home datore](Study_Earn\screenshots/home-datore.jpg)
+![home datore](Study_Earn/screenshots/home-datore.jpg)
 *pagina home datore*
 
-![offerta datore](Study_Earn\screenshots/offerta-datore.jpg)
+![offerta datore](Study_Earn/screenshots/offerta-datore.jpg)
 *pagina offerta datore*
 
 
