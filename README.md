@@ -2,7 +2,7 @@
 
 ## A. Informazioni sullo studente
 
-* **Nome:** Mohamed Shiha
+* **Nome:** Mohamed Chiha
 * **Matricola:** 341632
 
 ---
@@ -75,32 +75,32 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 ![introduzione 1](Study_Earn\screenshots/introduzione1.jpg)
 *prima delle quatro pagine introduttive*
 
-![Selezione User](study_earn/screenshots/scelta-user.jpg)
+![Selezione User](Study_Earn\screenshots/scelta-user.jpg)
 *Pagina di scelta del ruolo (Studente o Datore di Lavoro)*
 
-![login user](study_earn/screenshots/login-user.jpg)
+![login user](Study_Earn\screenshots/login-user.jpg)
 *pagina di login per l'utente*
 
 
-![registrato user](study_earn/screenshots/registrato-user.jpg)
+![registrato user](Study_Earn\screenshots/registrato-user.jpg)
 *pagina di registrazione per l'utente*
 
-![profilo user](study_earn/screenshots/profilo-user.jpg)
+![profilo user](Study_Earn\screenshots/profilo-user.jpg)
 *pagina di profilo per l'utente*
 
-![dimenticata password](study_earn/screenshots/dimenticata-password.jpg)
+![dimenticata password](Study_Earn\screenshots/dimenticata-password.jpg)
 *pagina di dimenticata password per l'utente*
 
-![home studente](study_earn/screenshots/home-studente.jpg)
+![home studente](Study_Earn\screenshots/home-studente.jpg)
 *pagina home studente*
 
-![offerta studente](study_earn/screenshots/offerta-studente.jpg)
+![offerta studente](Study_Earn\screenshots/offerta-studente.jpg)
 *pagina offerta studente*
 
-![home datore](study_earn/screenshots/home-datore.jpg)
+![home datore](Study_Earn\screenshots/home-datore.jpg)
 *pagina home datore*
 
-![offerta datore](study_earn/screenshots/offerta-datore.jpg)
+![offerta datore](Study_Earn\screenshots/offerta-datore.jpg)
 *pagina offerta datore*
 
 
@@ -148,4 +148,8 @@ Nella versione finale, ciò può essere sostituito da un database locale o un se
 
 ---
 
+<<<<<<< HEAD
 Run with: flutter pub get then flutter run
+=======
+Run with: flutter pub get then flutter run
+>>>>>>> ca63ce3 (Initial commit: Flutter project)
