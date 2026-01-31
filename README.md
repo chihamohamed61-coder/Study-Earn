@@ -74,52 +74,52 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/pagina-splash.jpg" width="150" /><br/>
+      <img src="screenshots/pagina-splash.jpg" width="130" /><br/>
       pagina splash
     </td>
     <td align="center">
-      <img src="screenshots/introduzione1.jpg" width="150" /><br/>
+      <img src="screenshots/introduzione1.jpg" width="130" /><br/>
       prima pagine introduttive
     </td>
     <td align="center">
-      <img src="screenshots/scelta-user.jpg" width="150" /><br/>
+      <img src="screenshots/scelta-user.jpg" width="130" /><br/>
       Pagina di scelta del ruolo
     </td>
     <td align="center">
-      <img src="screenshots/login-user.jpg" width="150" /><br/>
+      <img src="screenshots/login-user.jpg" width="130" /><br/>
       pagina di login per l'utente
     </td>
        <td align="center">
-      <img src="screenshots/registrato-user.jpg" width="150" /><br/>
+      <img src="screenshots/registrato-user.jpg" width="130" /><br/>
       pagina di registrazione per l'utente
       </td>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="screenshots/profilo-user.jpg" width="150" /><br/>
+      <img src="screenshots/profilo-user.jpg" width="130" /><br/>
       pagina di profilo per l'utente
     </td>
     <td align="center">
-      <img src="screenshots/dimenticata-password.jpg" width="150" /><br/>
+      <img src="screenshots/dimenticata-password.jpg" width="130" /><br/>
       pagina di dimenticata password
     </td>
     <td align="center">
-      <img src="screenshots/home-studente.jpg" width="150" /><br/>
+      <img src="screenshots/home-studente.jpg" width="130" /><br/>
       pagina home studente
     </td>
     <td align="center">
-      <img src="screenshots/offerta-studente.jpg" width="150" /><br/>
+      <img src="screenshots/offerta-studente.jpg" width="130" /><br/>
       pagina offerta studente
     </td>
     <td align="center">
-      <img src="screenshots/home-datore.jpg" width="150" /><br/>
+      <img src="screenshots/home-datore.jpg" width="130" /><br/>
       pagina home datore
     </td>
   </tr>
   <tr>
     <td>
-      <img src="screenshots/offreta-datore.jpg" width="150" /><br/>
+      <img src="screenshots/offreta-datore.jpg" width="130" /><br/>
       pagina offerta datore
     </td>
   </tr>
