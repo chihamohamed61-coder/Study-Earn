@@ -69,7 +69,7 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 
 *Alcune schermate principali dell’app:*
 ### Screenshot dell'app
-### Screenshot dell'app
+
 
 <table>
   <tr>
@@ -89,13 +89,13 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
       <img src="screenshots/login-user.jpg" width="100" /><br/>
       pagina di login per l'utente
     </td>
+       <td align="center">
+      <img src="screenshots/registrato-user.jpg" width="100" /><br/>
+      pagina di registrazione per l'utente
+      </td>
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="screenshots/registrato-user.jpg" width="100" /><br/>
-      pagina di registrazione per l'utente
-    </td>
     <td align="center">
       <img src="screenshots/profilo-user.jpg" width="100" /><br/>
       pagina di profilo per l'utente
@@ -108,9 +108,6 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
       <img src="screenshots/home-studente.jpg" width="100" /><br/>
       pagina home studente
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="screenshots/offerta-studente.jpg" width="100" /><br/>
       pagina offerta studente
@@ -119,11 +116,13 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
       <img src="screenshots/home-datore.jpg" width="100" /><br/>
       pagina home datore
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="screenshots/offerta-datore.jpg" width="100" /><br/>
       pagina offerta datore
     </td>
-    <td></td>
+   
   </tr>
 </table>
 
