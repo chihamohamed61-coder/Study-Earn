@@ -68,7 +68,7 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 ### Screenshot
 
 
-<table style="font-family: 'Times New Roman', Times, serif;">
+est que commentaire de chaque photo vrai en langue italien, voligo comentaire simple court sensa pronomi , solo parole : <table>
   <tr>
     <td align="center">
       <img src="screenshots/pagina-splash.jpg" width="130" /><br/>
@@ -86,10 +86,10 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
       <img src="screenshots/login-user.jpg" width="130" /><br/>
       pagina login utente
     </td>
-    <td align="center">
+       <td align="center">
       <img src="screenshots/registrato-user.jpg" width="130" /><br/>
       pagina registrazione utente
-    </td>
+      </td>
   </tr>
 
   <tr>
@@ -115,13 +115,12 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td>
       <img src="screenshots/offreta-datore.jpg" width="130" /><br/>
       pagina offerta datore
     </td>
   </tr>
 </table>
-
   
 
 ## E. Tecnologia e implementazione (Tecnologia e Implementazione)
