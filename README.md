@@ -69,10 +69,10 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 
 *Alcune schermate principali dell’app:*
 
-![pagina splash](study_earn/screenshots/pagina-splash.jpg)
+![pagina splash](Study_Earn\screenshots/pagina-splash.jpg)
 *pagina splash*
 
-![introduzione 1](study_earn/screenshots/introduzione1.jpg)
+![introduzione 1](Study_Earn\screenshots/introduzione1.jpg)
 *prima delle quatro pagine introduttive*
 
 ![Selezione User](study_earn/screenshots/scelta-user.jpg)
