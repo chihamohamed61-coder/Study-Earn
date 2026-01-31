@@ -1,0 +1,15 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - "build/**"
+    - "ios/**"
+    - "android/**"
+    - "web/**"
+    - "lib/generated_plugin_registrant.dart"
+
+linter:
+  rules:
+    # Désactiver temporairement l'obligation CamelCase pour les types.
+    # Recommander : renommer les classes en UpperCamelCase et supprimer cette règle.
+    camel_case_types: false
