@@ -68,7 +68,7 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 ### Screenshot
 
 
-<table>
+<table style="font-family: 'Times New Roman', Times, serif;">
   <tr>
     <td align="center">
       <img src="screenshots/pagina-splash.jpg" width="130" /><br/>
@@ -84,18 +84,18 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
     </td>
     <td align="center">
       <img src="screenshots/login-user.jpg" width="130" /><br/>
-      pagina login per utente
+      pagina login utente
     </td>
-       <td align="center">
+    <td align="center">
       <img src="screenshots/registrato-user.jpg" width="130" /><br/>
-      pagina registrazione per utente
-      </td>
+      pagina registrazione utente
+    </td>
   </tr>
 
   <tr>
     <td align="center">
       <img src="screenshots/profilo-user.jpg" width="130" /><br/>
-      pagina profilo per utente
+      pagina profilo utente
     </td>
     <td align="center">
       <img src="screenshots/dimenticata-password.jpg" width="130" /><br/>
@@ -115,12 +115,13 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <img src="screenshots/offreta-datore.jpg" width="130" /><br/>
       pagina offerta datore
     </td>
   </tr>
 </table>
+
   
 
 ## E. Tecnologia e implementazione (Tecnologia e Implementazione)
