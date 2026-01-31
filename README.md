@@ -68,42 +68,66 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 ### Screenshot
 
 *Alcune schermate principali dell’app:*
- <img src="screenshots/pagina-splash.jpg" width="250" />
-![pagina splash](Study_Earn/screenshots/pagina-splash.jpg)
-*pagina splash*
- <img src="Study_Earn/screenshots/introduzione1.jpg" width="250" />
-![introduzione 1](Study_Earn/screenshots/introduzione1.jpg)
-*prima delle quatro pagine introduttive*
+### Screenshot dell'app
 
-![Selezione User](Study_Earn/screenshots/scelta-user.jpg)
-*Pagina di scelta del ruolo (Studente o Datore di Lavoro)*
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-![login user](Study_Earn/screenshots/login-user.jpg)
-*pagina di login per l'utente*
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="screenshots/pagina-splash.jpg" width="250" />
+    <p>pagina splash</p>
+  </div>
 
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="screenshots/introduzione1.jpg" width="250" />
+    <p>prima delle quattro pagine introduttive</p>
+  </div>
 
-![registrato user](Study_Earn/screenshots/registrato-user.jpg)
-*pagina di registrazione per l'utente*
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="screenshots/scelta-user.jpg" width="250" />
+    <p>Pagina di scelta del ruolo (Studente o Datore di Lavoro)</p>
+  </div>
 
-![profilo user](Study_Earn/screenshots/profilo-user.jpg)
-*pagina di profilo per l'utente*
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="screenshots/login-user.jpg" width="250" />
+    <p>pagina di login per l'utente</p>
+  </div>
 
-![dimenticata password](Study_Earn/screenshots/dimenticata-password.jpg)
-*pagina di dimenticata password per l'utente*
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="screenshots/registrato-user.jpg" width="250" />
+    <p>pagina di registrazione per l'utente</p>
+  </div>
 
-![home studente](Study_Earn/screenshots/home-studente.jpg)
-*pagina home studente*
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="screenshots/profilo-user.jpg" width="250" />
+    <p>pagina di profilo per l'utente</p>
+  </div>
 
-![offerta studente](Study_Earn/screenshots/offerta-studente.jpg)
-*pagina offerta studente*
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="screenshots/dimenticata-password.jpg" width="250" />
+    <p>pagina di dimenticata password per l'utente</p>
+  </div>
 
-![home datore](Study_Earn/screenshots/home-datore.jpg)
-*pagina home datore*
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="screenshots/home-studente.jpg" width="250" />
+    <p>pagina home studente</p>
+  </div>
 
-![offerta datore](Study_Earn/screenshots/offerta-datore.jpg)
-*pagina offerta datore*
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="screenshots/offerta-studente.jpg" width="250" />
+    <p>pagina offerta studente</p>
+  </div>
 
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="screenshots/home-datore.jpg" width="250" />
+    <p>pagina home datore</p>
+  </div>
 
+  <div style="flex: 1; text-align: center; min-width: 250px;">
+    <img src="screenshots/offerta-datore.jpg" width="250" />
+    <p>pagina offerta datore</p>
+  </div>
+
+</div>
 
 ---
 
