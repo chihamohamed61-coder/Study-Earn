@@ -167,8 +167,5 @@ Nella versione finale, ciò può essere sostituito da un database locale o un se
 
 ---
 
-<<<<<<< HEAD
+
 Run with: flutter pub get then flutter run
-=======
-Run with: flutter pub get then flutter run
->>>>>>> ca63ce3 (Initial commit: Flutter project)
