@@ -72,18 +72,18 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="screenshots/pagina-splash.jpg" width="250" />
+  <div style="flex: 1; text-align: center; min-width: 100px;">
+    <img src="screenshots/pagina-splash.jpg" width="100" />
     <p>pagina splash</p>
   </div>
 
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="screenshots/introduzione1.jpg" width="250" />
+  <div style="flex: 1; text-align: center; min-width: 100px;">
+    <img src="screenshots/introduzione1.jpg" width="100" />
     <p>prima delle quattro pagine introduttive</p>
   </div>
 
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="screenshots/scelta-user.jpg" width="250" />
+  <div style="flex: 1; text-align: center; min-width: 100;">
+    <img src="screenshots/scelta-user.jpg" width="100" />
     <p>Pagina di scelta del ruolo (Studente o Datore di Lavoro)</p>
   </div>
 
