@@ -69,67 +69,64 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 
 *Alcune schermate principali dell’app:*
 ### Screenshot dell'app
+### Screenshot dell'app
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/pagina-splash.jpg" width="100" /><br/>
+      pagina splash
+    </td>
+    <td align="center">
+      <img src="screenshots/introduzione1.jpg" width="100" /><br/>
+      prima pagine introduttive
+    </td>
+    <td align="center">
+      <img src="screenshots/scelta-user.jpg" width="100" /><br/>
+      Pagina di scelta del ruolo
+    </td>
+    <td align="center">
+      <img src="screenshots/login-user.jpg" width="100" /><br/>
+      pagina di login per l'utente
+    </td>
+  </tr>
 
-  <div style="flex: 1; text-align: center; min-width: 100px;">
-    <img src="screenshots/pagina-splash.jpg" width="100" />
-    <p>pagina splash</p>
-  </div>
+  <tr>
+    <td align="center">
+      <img src="screenshots/registrato-user.jpg" width="100" /><br/>
+      pagina di registrazione per l'utente
+    </td>
+    <td align="center">
+      <img src="screenshots/profilo-user.jpg" width="100" /><br/>
+      pagina di profilo per l'utente
+    </td>
+    <td align="center">
+      <img src="screenshots/dimenticata-password.jpg" width="100" /><br/>
+      pagina di dimenticata password
+    </td>
+    <td align="center">
+      <img src="screenshots/home-studente.jpg" width="100" /><br/>
+      pagina home studente
+    </td>
+  </tr>
 
-  <div style="flex: 1; text-align: center; min-width: 100px;">
-    <img src="screenshots/introduzione1.jpg" width="100" />
-    <p>prima delle quattro pagine introduttive</p>
-  </div>
+  <tr>
+    <td align="center">
+      <img src="screenshots/offerta-studente.jpg" width="100" /><br/>
+      pagina offerta studente
+    </td>
+    <td align="center">
+      <img src="screenshots/home-datore.jpg" width="100" /><br/>
+      pagina home datore
+    </td>
+    <td align="center">
+      <img src="screenshots/offerta-datore.jpg" width="100" /><br/>
+      pagina offerta datore
+    </td>
+    <td></td>
+  </tr>
+</table>
 
-  <div style="flex: 1; text-align: center; min-width: 100;">
-    <img src="screenshots/scelta-user.jpg" width="100" />
-    <p>Pagina di scelta del ruolo (Studente o Datore di Lavoro)</p>
-  </div>
-
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="screenshots/login-user.jpg" width="250" />
-    <p>pagina di login per l'utente</p>
-  </div>
-
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="screenshots/registrato-user.jpg" width="250" />
-    <p>pagina di registrazione per l'utente</p>
-  </div>
-
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="screenshots/profilo-user.jpg" width="250" />
-    <p>pagina di profilo per l'utente</p>
-  </div>
-
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="screenshots/dimenticata-password.jpg" width="250" />
-    <p>pagina di dimenticata password per l'utente</p>
-  </div>
-
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="screenshots/home-studente.jpg" width="250" />
-    <p>pagina home studente</p>
-  </div>
-
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="screenshots/offerta-studente.jpg" width="250" />
-    <p>pagina offerta studente</p>
-  </div>
-
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="screenshots/home-datore.jpg" width="250" />
-    <p>pagina home datore</p>
-  </div>
-
-  <div style="flex: 1; text-align: center; min-width: 250px;">
-    <img src="screenshots/offerta-datore.jpg" width="250" />
-    <p>pagina offerta datore</p>
-  </div>
-
-</div>
-
----
 
 ## E. Tecnologia e implementazione (Tecnologia e Implementazione)
 
