@@ -67,9 +67,6 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 
 ### Screenshot
 
-*Alcune schermate principali dell’app:*
-### Screenshot dell'app
-
 
 <table>
   <tr>
