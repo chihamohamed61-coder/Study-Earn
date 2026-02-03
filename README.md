@@ -9,7 +9,7 @@
 
 ## B. Titolo del progetto
 
-**Study Earn – Applicazione mobile per lavori temporanei per studenti**
+**Study Earn**
 
 ---
 
@@ -27,9 +27,9 @@ L’app offre una soluzione **semplice, facile da usare ed efficace** che soddis
 
 ---
 
-## D. Esperienza utente (User Experience)
+## D. Esperienza utente
 
-### Schermata di scelta del ruolo (Scelta del Ruolo)
+### Schermata di scelta del ruolo
 
 Dopo le schermate introduttive (Onboarding), appare la **pagina di scelta del ruolo**.
 Qui l’utente deve **selezionare uno dei due ruoli**:
@@ -39,7 +39,7 @@ Qui l’utente deve **selezionare uno dei due ruoli**:
 
 ---
 
-### Registrazione e accesso (Registrazione e Accesso)
+### Registrazione e accesso
 
 Dopo la scelta del ruolo:
 
@@ -48,7 +48,7 @@ Dopo la scelta del ruolo:
 
 ---
 
-### Navigazione all’interno dell’app (Navigazione)
+### Navigazione all’interno dell’app
 
 Dopo il login, l’app mostra un’interfaccia diversa in base al ruolo:
 
@@ -57,7 +57,7 @@ Dopo il login, l’app mostra un’interfaccia diversa in base al ruolo:
 
 ---
 
-### Candidatura e gestione dei lavori (Candidatura e Gestione Lavori)
+### Candidatura e gestione dei lavori
 
 Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 
@@ -68,7 +68,7 @@ Gli studenti possono sfogliare le offerte presentate come **card dettagliate**.
 ### Screenshot
 
 
-est que commentaire de chaque photo vrai en langue italien, voligo comentaire simple court sensa pronomi , solo parole : <table>
+<table>
   <tr>
     <td align="center">
       <img src="screenshots/pagina-splash.jpg" width="130" /><br/>
@@ -131,7 +131,7 @@ L’app è sviluppata con **Flutter** e **Dart**, offrendo un’esperienza fluid
 
 ---
 
-### Pacchetti Flutter utilizzati (Pacchetti Flutter Utilizzati)
+### Pacchetti Flutter utilizzati
 
 Per migliorare l’interfaccia e le funzionalità, sono state utilizzate diverse librerie:
 
@@ -144,20 +144,20 @@ Per migliorare l’interfaccia e le funzionalità, sono state utilizzate diverse
 
 ---
 
-### Gestione dello stato (State Management)
+### Gestione dello stato
 
 È stato utilizzato il sistema nativo di Flutter **`setState` e `StatefulWidget`** per gestire lo stato dell’app, semplificando il codice e rendendolo facile da leggere senza complessità aggiuntive.
 
 ---
 
-### Archiviazione dati (Archiviazione Dati)
+### Archiviazione dati
 
 Attualmente l’app utilizza **dati temporanei in memoria (Mock Data)** per simulare il server, facilitando i test dell’interfaccia e del flusso di lavoro.
 Nella versione finale, ciò può essere sostituito da un database locale o un servizio cloud come **Firebase**.
 
 ---
 
-### Sfide implementative (Sfide Implementative)
+### Sfide implementative
 
 * **Design responsive:** garantire la compatibilità di card e gradienti su tutti i formati di schermo, risolto con `LayoutBuilder`.
 * **Flusso delle schermate introduttive (Onboarding Flow):** migliorato il passaggio tra schermata iniziale e registrazione per evitare ritorni indesiderati usando `Navigator.pushReplacement`.
